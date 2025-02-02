@@ -1,4 +1,5 @@
 # Привет, меня зовут Владислав! 👋  
+Я присоединился к GitHub `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
 ## Статистика GitHub  
 ![Календарь коммитов](https://github-readme-stats.vercel.app/api?username=Chinyonov-Vladislav&show_icons=true&theme=dark&hide_border=true&include_all_commits=false)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Chinyonov-Vladislav&theme=dark)](https://git.io/streak-stats)  

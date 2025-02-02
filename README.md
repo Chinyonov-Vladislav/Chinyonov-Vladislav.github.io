@@ -4,7 +4,7 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Chinyonov-Vladislav&theme=dark)](https://git.io/streak-stats)  
 ## Использование языков программирования    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinyonov-Vladislav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinyonov-Vladislav&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 ## Успехи на LeetCode  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vlad2000100600?theme=dark&font=Shippori%20Antique%20B1&ext=activity)
 ## 📫 Контакты  

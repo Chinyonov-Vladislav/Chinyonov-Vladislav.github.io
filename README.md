@@ -8,3 +8,4 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vlad2000100600?theme=dark&font=Shippori%20Antique%20B1&ext=activity)
 ## 📫 Контакты  
 [![Email](https://img.shields.io/badge/vlad2000100600@gmail.com-red?style=flat-square&logo=gmail)](mailto:vlad2000100600@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-@chinyonov_vlad-blue?style=flat-square&logo=telegram)](https://t.me/chinyonov_vlad)
